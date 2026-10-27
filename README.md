@@ -1,5 +1,7 @@
 
 <img width="1277" height="736" alt="Screenshot 2026-10-27 081015" src="https://github.com/user-attachments/assets/dcaa8c85-ecbb-449e-84b6-97446ce21c93" />
+
+
 # HR Analytics Dashboard | Workforce Attrition & Retention Analysis
 ## 📌 Project Overview
 The objective of this HR Analytics Dashboard is to help HR leadership analyze employee attrition patterns across key variables such as department, age group, education background, salary slabs, and job satisfaction levels. This interactive dashboard equips stakeholders with data-driven insights to mitigate turnover and improve employee retention strategies.
